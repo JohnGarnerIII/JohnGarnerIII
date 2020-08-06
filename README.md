@@ -41,7 +41,7 @@
 ---
 
 
-<img align="left" alt="John Garner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
 
 [website]: https://johngarneriii.github.io/
 [twitter]: https://twitter.com/ZellaSphere
