@@ -1,9 +1,8 @@
-### Hello, my name is John Garner - aka [Zella][website] 👋
+### Hello, my name is John Garner III
 
 ## I'm a Student and Developer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: To commit more to GitHub
+- 🌱 I’m currently learning Java
+- 🥅 2020 Goals: Focusing on using OOP in projects
 - ⚡ Fun fact: I am currently learning Japanese
 
 ### Connect with me:
