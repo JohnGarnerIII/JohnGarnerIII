@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning Java
-- 🥅 2020 Goals: Focusing on using OOP in projects
+- 🥅 Goals: Focusing on using OOP in projects
 - ⚡ Fun fact: I am currently learning Japanese
 
 ### Connect with me:
