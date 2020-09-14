@@ -7,8 +7,8 @@
 
 
 ## Codes for my Repos
-- (RIP) I'm not working on this project anymore and it's in the graveyard
 - (WiP) Work in Progress, continuing to work on it
+- (RIP) I'm not working on this project anymore and it's in the graveyard
 
 
 ### Connect with me:
