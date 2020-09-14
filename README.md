@@ -5,6 +5,12 @@
 - 🥅 Goals: Focusing on using OOP in projects
 - ⚡ Fun fact: I am currently learning Japanese
 
+
+## Codes for my Repos
+- (RIP) I'm not working on this project anymore and it's in the graveyard
+- (WiP) Work in Progress, continuing to work on it
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
