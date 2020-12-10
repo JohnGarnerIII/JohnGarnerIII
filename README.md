@@ -27,6 +27,4 @@
 
 
 [website]: https://johngarneriii.github.io/
-[twitter]: https://twitter.com/ZellaSphere
-[youtube]: https://www.youtube.com/zellasphere
 [linkedin]: https://www.linkedin.com/in/johngarneriii/
