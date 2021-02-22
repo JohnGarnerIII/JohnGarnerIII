@@ -5,11 +5,6 @@
 - 🥅 Goals: Focus on using OOP in projects
 
 
-## Codes for my Repos
-- (WiP) Work in Progress, continuing to work on it
-- (RIP) I'm not working on this project anymore and it's in the graveyard
-
-
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
