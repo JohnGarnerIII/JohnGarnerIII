@@ -1,6 +1,6 @@
 ### Hello, my name is John Garner III
 
-## I'm a Student and Developer!
+## I'm a SOFTWARE DEVELOPER!
 - 🌱 I’m currently learning Java and C#
 - 🥅 Goals: Focus on using OOP in projects
 - 👓 Future: I want to work in QA and Data Science
