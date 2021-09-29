@@ -1,9 +1,9 @@
 ### Hello, my name is John Garner III
 
 ## I'm a SOFTWARE DEVELOPER!
-- 🌱 I’m currently learning Java and C#
-- 🥅 Goals: Focus on using OOP in projects
-- 👓 Future: I want to work in QA and Data Science
+- 🌱 I’m currently learning Javascript and the framework Next.js
+- 🥅 Goals: Focus on reformmating my website using Next.js
+- 👓 Future: I want to find work in Quality Assurance and/or Web Development
 
 ## Connect with me:
 
