@@ -1,14 +1,14 @@
 ### Hello, my name is John Garner III
 
-## I'm a SOFTWARE DEVELOPER!
-- 🌱 I’m currently going to school for my BA in Computer Sci.
+## I'm a Student @ Georgia State!
+- 🌱 I’m currently going to school for my BA in Computer Science.
 - 🥅 Goals: Focus on reformatting my website using a framework.
-- 👓 Future: I want to find work in Quality Assurance and/or Web Development.
+- 👓 Future: I want to find work in Quality Assurance and/or Web Development. Eventually get my Master in Data Science
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="middle" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="middle" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br>
