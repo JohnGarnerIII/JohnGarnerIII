@@ -1,4 +1,4 @@
-### Hello, my name is John Garner III
+### Hello, my name is John Garner
 
 ## I'm a Student @ Georgia State!
 - 🌱 I’m currently going to school for my BA in Computer Science.
