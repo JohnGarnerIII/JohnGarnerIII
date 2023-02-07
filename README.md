@@ -1,10 +1,7 @@
-<p align="center">
-### Hello, my name is John Garner
-  </p>
+<h1 align="center">Hello!</h1>
 
-<p align="center">
-## I'm a Student @ Georgia State!
-  </p>
+<h1 align="center">I'm a student at Georgia State!</h1>
+
 - 🌱 I’m currently going to school for my BA in Computer Science.
 - 🥅 Goals: Focus on reformatting my website using a framework.
 - 👓 Future: I want to find work in Quality Assurance testing code. Eventually I want to get my Masters in Data Science.
